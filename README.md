@@ -8,3 +8,5 @@ Concepts in math or physics that are traditionally misunderstood ought to be pla
 # Concepts Explained so Far
 
 - The Shannon-Nyquist Sampling Theorem
+
+Feel free to add more!
